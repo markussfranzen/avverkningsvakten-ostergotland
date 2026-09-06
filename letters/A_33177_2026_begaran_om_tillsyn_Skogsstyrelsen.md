@@ -30,7 +30,7 @@ _Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Vicia pisiformis* | ärtvicker | EN | 8 § / 9 § (bilaga 2) | inom 150 m | 34 | 2026 |
+| *Vicia pisiformis* | ärtvicker | EN | 8 § / 9 § (bilaga 2) | inom 150 m | 36 | 2026 |
 | *Hypericum montanum* | bergjohannesört | NT | rödlistad (ej fridlyst) | inom 150 m | 4 | 2024 |
 
 Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.4477 58.1196,16.4677 58.1196,16.4677 58.1316,16.4477 58.1316,16.4477 58.1196))
@@ -67,5 +67,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-06 10:47 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260906), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-06 21:08 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260906), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
