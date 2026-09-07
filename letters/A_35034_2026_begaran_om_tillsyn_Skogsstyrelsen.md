@@ -1,46 +1,51 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 33396-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 35034-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-09-06  
+**Datum:** 2026-09-07  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 33396-2026** |
-| Kommun | BOXHOLM |
-| Inkom till Skogsstyrelsen | 2026-08-13 |
-| Anmäld areal | 1.6 ha (Avverkning för att bevara och utveckla /försöksver, Normal skog) |
-| Områdets mittpunkt | N 6435598, E 516637 (SWEREF 99 TM); 58.06155, 15.28195 (WGS84) |
+| Avverkningsanmälan | **A 35034-2026** |
+| Kommun | SÖDERKÖPING |
+| Inkom till Skogsstyrelsen | 2026-08-25 |
+| Anmäld areal | 1.1 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6478742, E 571844 (SWEREF 99 TM); 58.44347, 16.23074 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-09-24 (18 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-06 (29 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-06. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-07. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
-_Inga fynd av nyckelarter i denna zon i tillgängliga data._
+| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
+|---|---|---|---|---|---|---|
+| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 7 | 2026 |
+| *Leucobryum glaucum* | blåmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 5 | 2026 |
+| *Tomicus minor* | mindre märgborre | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 4 | 2026 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Fraxinus excelsior* | ask | EN | rödlistad (ej fridlyst) | inom 150 m | 22 | 2020 |
+| *Tetrao urogallus* | tjäder | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 1 | 2026 |
+| *Poecile montanus* | talltita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 2 | 2026 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.2720 58.0555,15.2919 58.0555,15.2919 58.0675,15.2720 58.0675,15.2720 58.0555))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.2207 58.4375,16.2407 58.4375,16.2407 58.4495,16.2207 58.4495,16.2207 58.4375))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 81.2 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 98 %.
-- Närmaste Natura 2000-område: Pukehål (797 m). Närmaste naturreservat: Pukehål (804 m).
-- Skäl som utlöst bevakningen: hög skoglig naturvärdessannolikhet (HCVF 81); hög skog >= 20 m på 98 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 6.5 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 93 %.
+- Närmaste Natura 2000-område: Össby lindäng (5560 m). Närmaste naturreservat: Ramunderberget (6734 m).
+- Skäl som utlöst bevakningen: prioriterad fågelart inom området (4 §); hög skog >= 20 m på 93 %.
 
 ## Rättslig grund
 
@@ -66,5 +71,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-06 10:47 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260906), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-07 06:50 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260907), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
