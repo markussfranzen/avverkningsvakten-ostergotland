@@ -1,53 +1,54 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 34790-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 37484-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-09-10  
+**Datum:** 2026-09-11  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 34790-2026** |
-| Kommun | SÖDERKÖPING |
-| Inkom till Skogsstyrelsen | 2026-08-24 |
-| Anmäld areal | 3.5 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6464772, E 602677 (SWEREF 99 TM); 58.3119, 16.75246 (WGS84) |
+| Avverkningsanmälan | **A 37484-2026** |
+| Kommun | LINKÖPING |
+| Inkom till Skogsstyrelsen | 2026-09-10 |
+| Anmäld areal | 1.1 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6469660, E 553006 (SWEREF 99 TM); 58.3646, 15.90598 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-05 (25 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-22 (41 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-10. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-11. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
-_Inga fynd av nyckelarter i denna zon i tillgängliga data._
+| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
+|---|---|---|---|---|---|---|
+| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 9 | 2026 |
+| *Hertelidea botryosa* | vedskivlav | NT | rödlistad (ej fridlyst) | inom området | 4 | 2026 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Lucanus cervus* | ekoxe | LC | 6 § (bilaga 2) | inom 150 m | 6 | 2020 |
-| *Grus grus* | trana | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 5 | 2009 |
-| *Mergellus albellus* | salskrake | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 2 | 2008 |
-| *Asio flammeus* | jorduggla | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 1 | 2006 |
-| *Carpodacus erythrinus* | rosenfink | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 1 | 2009 |
-| *Gallinago gallinago* | enkelbeckasin | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 2 | 2007 |
-| *Motacilla alba* | sädesärla | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 1 | 2009 |
-| *Polygala vulgaris* | jungfrulin | NT | rödlistad (ej fridlyst) | inom 50 m | 1 | 2021 |
+| *Hepatica nobilis* | blåsippa | LC | 8 § / 9 § (bilaga 2) | inom 50 m | 3 | 2026 |
+| *Goodyera repens* | knärot | VU | 8 § / 9 § (bilaga 2) | inom 50 m | 26 | 2026 |
+| *Poecile palustris* | entita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 1 | 2026 |
+| *Pyrola chlorantha* | grönpyrola | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 2 | 2026 |
+| *Alces alces* | älg | NT | rödlistad (ej fridlyst) | inom 150 m | 3 | 2026 |
+| *Porodaedalea pini* | tallticka | NT | rödlistad (ej fridlyst) | inom 50 m | 7 | 2026 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.7425 58.3059,16.7625 58.3059,16.7625 58.3179,16.7425 58.3179,16.7425 58.3059))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.8960 58.3586,15.9160 58.3586,15.9160 58.3706,15.8960 58.3706,15.8960 58.3586))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 63.8 av 100.
-- Ädellövskog (NMD 2023): 10 % av området; skog högre än 20 m: 86 %.
-- Närmaste Natura 2000-område: Svensmarö (682 m). Närmaste naturreservat: Svensmarö (682 m).
-- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); prioriterad fågelart inom 150 m (4 §); hög skog >= 20 m på 86 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 22.8 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 92 %.
+- Närmaste Natura 2000-område: Fornborgen-Grävsten (994 m). Närmaste naturreservat: Ytterby (3180 m).
+- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); prioriterad fågelart inom området (4 §); hög skog >= 20 m på 92 %.
 
 ## Rättslig grund
 
@@ -73,5 +74,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-10 06:35 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260910), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-11 06:35 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260911), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
