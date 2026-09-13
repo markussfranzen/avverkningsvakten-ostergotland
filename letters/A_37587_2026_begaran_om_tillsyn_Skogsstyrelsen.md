@@ -1,49 +1,55 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 36366-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 37587-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-09-11  
+**Datum:** 2026-09-13  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 36366-2026** |
-| Kommun | NORRKÖPING |
-| Inkom till Skogsstyrelsen | 2026-09-03 |
-| Anmäld areal | 2.5 ha (Avverkning för annat ändamål, Normal skog) |
-| Områdets mittpunkt | N 6492591, E 551990 (SWEREF 99 TM); 58.57065, 15.89384 (WGS84) |
+| Avverkningsanmälan | **A 37587-2026** |
+| Kommun | BOXHOLM |
+| Inkom till Skogsstyrelsen | 2026-09-11 |
+| Anmäld areal | 3.1 ha (Avverkning för annat ändamål, Normal skog) |
+| Områdets mittpunkt | N 6450251, E 508552 (SWEREF 99 TM); 58.1934, 15.14546 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-15 (34 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-23 (40 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-11. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-13. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Leucobryum glaucum* | blåmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 6 | 2022 |
+| *Platanthera bifolia* | nattviol | LC | 8 § / 9 § (bilaga 2) | inom området | 1 | 2023 |
+| *Zootoca vivipara* | skogsödla | LC | 8 § / 9 § (bilaga 2) | inom området | 1 | 2023 |
+| *Pulsatilla vulgaris* | backsippa | VU | 8 § / 9 § (bilaga 2) | inom området | 3 | 2026 |
+| *Polygala vulgaris* | jungfrulin | NT | rödlistad (ej fridlyst) | inom området | 1 | 2023 |
+| *Zygaena filipendulae* | sexfläckig bastardsvärmare | VU | rödlistad (ej fridlyst) | inom området | 1 | 2020 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Goodyera repens* | knärot | VU | 8 § / 9 § (bilaga 2) | inom 50 m | 1 | 2022 |
-| *Porodaedalea pini* | tallticka | NT | rödlistad (ej fridlyst) | inom 50 m | 17 | 2022 |
+| *Anguis fragilis* | kopparödla | LC | 8 § / 9 § (bilaga 2) | inom 50 m | 1 | 2026 |
+| *Bufo bufo* | vanlig padda | LC | 6 § (bilaga 2) | inom 50 m | 1 | 2026 |
+| *Andrena nitida* | nyponsandbi | NT | rödlistad (ej fridlyst) | inom 150 m | 1 | 2017 |
+| *Nemophora metallica* | åkerväddsantennmal | NT | rödlistad (ej fridlyst) | inom 150 m | 1 | 2021 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.8838 58.5647,15.9038 58.5647,15.9038 58.5767,15.8838 58.5767,15.8838 58.5647))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.1355 58.1874,15.1555 58.1874,15.1555 58.1994,15.1355 58.1994,15.1355 58.1874))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 38.9 av 100.
-- Ädellövskog (NMD 2023): 1 % av området; skog högre än 20 m: 71 %.
-- Närmaste Natura 2000-område: Ljusfors (1701 m). Närmaste naturreservat: Ljusfors (1701 m).
-- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); hög skog >= 20 m på 71 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 14.4 av 100.
+- Ädellövskog (NMD 2023): 21 % av området; skog högre än 20 m: 26 %.
+- Närmaste Natura 2000-område: Pålsbo äng (1288 m). Närmaste naturreservat: Pålsbo (1288 m).
+- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom området (6/8 §); hotad art (CR/EN/VU) inom området; ädellövskog 21 %.
 
 ## Rättslig grund
 
@@ -69,5 +75,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-11 06:35 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260911), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-13 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260913), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
