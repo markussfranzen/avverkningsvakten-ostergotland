@@ -1,51 +1,47 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 32488-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 38017-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-09-15  
+**Datum:** 2026-09-16  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 32488-2026** |
-| Kommun | MOTALA |
-| Inkom till Skogsstyrelsen | 2026-08-05 |
-| Anmäld areal | 2 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6496386, E 509668 (SWEREF 99 TM); 58.60773, 15.16639 (WGS84) |
-| Status i öppna data | Brådskande: fristen går ut inom 14 dagar |
+| Avverkningsanmälan | **A 38017-2026** |
+| Kommun | NORRKÖPING |
+| Inkom till Skogsstyrelsen | 2026-09-15 |
+| Anmäld areal | 3.9 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6514824, E 563312 (SWEREF 99 TM); 58.76878, 16.09469 (WGS84) |
+| Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-09-16 (1 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-27 (41 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-15. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-16. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
-| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
-|---|---|---|---|---|---|---|
-| *Lycopodium annotinum* | revlummer | LC | 8 § / 9 § (bilaga 2) | inom området | 1 | 2026 |
-| *Goodyera repens* | knärot | VU | 8 § / 9 § (bilaga 2) | inom området | 1 | 2026 |
-| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 2 | 2026 |
-| *Cacotemnus thomsoni* | thomsons trägnagare | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 2 | 2026 |
+_Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
 ### Inom 150 meter utanför området (buffertzon)
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Tomicus minor* | mindre märgborre | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 1 | 2026 |
+| *Aegolius funereus* | pärluggla | EN | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 2 | 2021 |
+| *Haliaeetus albicilla* | havsörn | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 2 | 2021 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.1564 58.6017,15.1764 58.6017,15.1764 58.6137,15.1564 58.6137,15.1564 58.6017))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.0847 58.7628,16.1047 58.7628,16.1047 58.7748,16.0847 58.7748,16.0847 58.7628))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 21.1 av 100.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 75.6 av 100.
 - Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 94 %.
-- Närmaste Natura 2000-område: Kristberg (3861 m). Närmaste naturreservat: Lustigkulle domänreservat (3332 m).
-- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom området (6/8 §); prioriterad fågelart inom området (4 §); hotad art (CR/EN/VU) inom området; hög skog >= 20 m på 94 %.
+- Närmaste Natura 2000-område: Nybygget-Duvhult (5662 m). Närmaste naturreservat: Hjälmstorpenäs (3912 m).
+- Skäl som utlöst bevakningen: prioriterad fågelart inom 150 m (4 §); hög skoglig naturvärdessannolikhet (HCVF 76); hög skog >= 20 m på 94 %.
 
 ## Rättslig grund
 
@@ -71,5 +67,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-15 06:35 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260915), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-16 06:40 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260916), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
