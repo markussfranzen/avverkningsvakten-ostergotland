@@ -2,7 +2,7 @@
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-09-16  
+**Datum:** 2026-09-17  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
@@ -16,11 +16,11 @@
 | Områdets mittpunkt | N 6483208, E 612452 (SWEREF 99 TM); 58.475, 16.92821 (WGS84) |
 | Status i öppna data | Brådskande: fristen går ut inom 14 dagar |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-09-18 (2 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-09-18 (1 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-16. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-17. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
@@ -75,5 +75,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-16 06:40 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260916), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-17 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260917), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 

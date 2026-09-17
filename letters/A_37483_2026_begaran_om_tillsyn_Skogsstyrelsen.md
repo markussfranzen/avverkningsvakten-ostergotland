@@ -2,7 +2,7 @@
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-09-16  
+**Datum:** 2026-09-17  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
@@ -16,21 +16,24 @@
 | Områdets mittpunkt | N 6460740, E 536629 (SWEREF 99 TM); 58.28616, 15.62468 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-22 (36 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-22 (35 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-16. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-17. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
+| *Buxbaumia viridis* | grön sköldmossa | LC | 4 a § (bilaga 1 N/n, art- och habitatdirektivets bilaga IV) | inom området | 2 | 2026 |
 | *Hepatica nobilis* | blåsippa | LC | 8 § / 9 § (bilaga 2) | inom området | 1 | 2026 |
-| *Goodyera repens* | knärot | VU | 8 § / 9 § (bilaga 2) | inom området | 5 | 2026 |
-| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2026 |
-| *Poecile montanus* | talltita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2026 |
-| *Pyrola chlorantha* | grönpyrola | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 1 | 2026 |
+| *Lycopodium annotinum* | revlummer | LC | 8 § / 9 § (bilaga 2) | inom området | 2 | 2026 |
+| *Goodyera repens* | knärot | VU | 8 § / 9 § (bilaga 2) | inom området | 14 | 2026 |
+| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 3 | 2026 |
+| *Poecile montanus* | talltita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 2 | 2026 |
+| *Pyrola chlorantha* | grönpyrola | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 2 | 2026 |
+| *Tomicus minor* | mindre märgborre | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 3 | 2026 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
@@ -44,7 +47,7 @@ Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=PO
 - Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 63.7 av 100.
 - Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 98 %.
 - Närmaste Natura 2000-område: Stafsäter (1771 m). Närmaste naturreservat: Stafsäters lövskog (1771 m).
-- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom området (6/8 §); prioriterad fågelart inom området (4 §); hotad art (CR/EN/VU) inom området; hög skog >= 20 m på 98 %.
+- Skäl som utlöst bevakningen: art i bilaga IV inom området (4 a §); rödlistad/bilaga IV-fridlyst art inom området (6/8 §); prioriterad fågelart inom området (4 §); hotad art (CR/EN/VU) inom området; hög skog >= 20 m på 98 %.
 
 ## Rättslig grund
 
@@ -70,5 +73,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-16 06:40 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260916), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-17 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260917), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
