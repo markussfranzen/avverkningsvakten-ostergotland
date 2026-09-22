@@ -1,4 +1,4 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 37484-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 38765-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
@@ -9,14 +9,14 @@
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 37484-2026** |
-| Kommun | LINKÖPING |
-| Inkom till Skogsstyrelsen | 2026-09-10 |
-| Anmäld areal | 1.1 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6469660, E 553006 (SWEREF 99 TM); 58.3646, 15.90598 (WGS84) |
+| Avverkningsanmälan | **A 38765-2026** |
+| Kommun | FINSPÅNG |
+| Inkom till Skogsstyrelsen | 2026-09-21 |
+| Anmäld areal | 3 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6532545, E 537990 (SWEREF 99 TM); 58.9309, 15.65993 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-22 (30 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-02 (41 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
@@ -24,31 +24,47 @@ Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koo
 
 ### Inom det avverkningsanmälda området
 
-| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
-|---|---|---|---|---|---|---|
-| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 9 | 2026 |
-| *Hertelidea botryosa* | vedskivlav | NT | rödlistad (ej fridlyst) | inom området | 4 | 2026 |
+_Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
 ### Inom 150 meter utanför området (buffertzon)
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Hepatica nobilis* | blåsippa | LC | 8 § / 9 § (bilaga 2) | inom 50 m | 3 | 2026 |
-| *Goodyera repens* | knärot | VU | 8 § / 9 § (bilaga 2) | inom 50 m | 26 | 2026 |
-| *Poecile palustris* | entita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 1 | 2026 |
-| *Pyrola chlorantha* | grönpyrola | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 2 | 2026 |
-| *Alces alces* | älg | NT | rödlistad (ej fridlyst) | inom 150 m | 3 | 2026 |
-| *Porodaedalea pini* | tallticka | NT | rödlistad (ej fridlyst) | inom 50 m | 7 | 2026 |
+| *Dactylorhiza maculata* | fläcknycklar | LC | 8 § / 9 § (bilaga 2) | inom 150 m | 1 | 2026 |
+| *Hepatica nobilis* | blåsippa | LC | 8 § / 9 § (bilaga 2) | inom 150 m | 3 | 2022 |
+| *Zootoca vivipara* | skogsödla | LC | 8 § / 9 § (bilaga 2) | inom 150 m | 1 | 2021 |
+| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 6 | 2023 |
+| *Haliaeetus albicilla* | havsörn | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 1 | 2026 |
+| *Emberiza citrinella* | gulsparv | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 1 | 2024 |
+| *Gallinago gallinago* | enkelbeckasin | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 1 | 2025 |
+| *Sturnus vulgaris* | stare | VU | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 1 | 2021 |
+| *Psophus stridulus* | trumgräshoppa | EN | rödlistad (ej fridlyst) | inom 150 m | 14 | 2026 |
+| *Clavulinopsis corniculata* | ängsfingersvamp | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 1 | 2019 |
+| *Clavulinopsis helvola* | hagfingersvamp | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 1 | 2019 |
+| *Encoelia furfuracea* | läderskål | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 1 | 2019 |
+| *Hygrocybe chlorophana* | gulvaxing | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 1 | 2006 |
+| *Crepis praemorsa* | klasefibbla | NT | rödlistad (ej fridlyst) | inom 150 m | 2 | 2024 |
+| *Hesperia comma* | silversmygare | NT | rödlistad (ej fridlyst) | inom 150 m | 1 | 2021 |
+| *Hygrocybe punicea* | scharlakansvaxing | NT | rödlistad (ej fridlyst) | inom 150 m | 1 | 2006 |
+| *Onthophagus fracticornis* | krokhorndyvel | NT | rödlistad (ej fridlyst) | inom 150 m | 1 | 2021 |
+| *Pedicularis sylvatica* | granspira | NT | rödlistad (ej fridlyst) | inom 50 m | 86 | 2026 |
+| *Phytometra viridaria* | jungfrulinsfly | NT | rödlistad (ej fridlyst) | inom 150 m | 3 | 2022 |
+| *Polygala vulgaris* | jungfrulin | NT | rödlistad (ej fridlyst) | inom 150 m | 5 | 2024 |
+| *Pyrausta ostrinalis* | dubbelbandat ljusmott | NT | rödlistad (ej fridlyst) | inom 150 m | 2 | 2022 |
+| *Arnica montana* | slåttergubbe | VU | rödlistad (ej fridlyst) | inom 150 m | 3 | 2024 |
+| *Boloria selene* | brunfläckig pärlemorfjäril | VU | rödlistad (ej fridlyst) | inom 150 m | 2 | 2021 |
+| *Cyaniris semiargus* | ängsblåvinge | VU | rödlistad (ej fridlyst) | inom 150 m | 1 | 2012 |
+| *Nomada argentata* | silvergökbi | VU | rödlistad (ej fridlyst) | inom 150 m | 1 | 2021 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.8960 58.3586,15.9160 58.3586,15.9160 58.3706,15.8960 58.3706,15.8960 58.3586))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.6499 58.9249,15.6699 58.9249,15.6699 58.9369,15.6499 58.9369,15.6499 58.9249))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 22.8 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 92 %.
-- Närmaste Natura 2000-område: Fornborgen-Grävsten (994 m). Närmaste naturreservat: Ytterby (3180 m).
-- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); prioriterad fågelart inom området (4 §); hög skog >= 20 m på 92 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 71.1 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 96 %.
+- Närmaste Natura 2000-område: Motala äng (0 m). Närmaste naturreservat: Brevens tallskogar (2483 m).
+- Skäl som utlöst bevakningen: allmän fridlyst art (t.ex. orkidé) inom 150 m, ej utlösande; prioriterad fågelart inom 150 m (4 §); hög skoglig naturvärdessannolikhet (HCVF 71); hög skog >= 20 m på 96 %; Natura 2000 inom 0 m (Motala äng).
 
 ## Rättslig grund
 

@@ -1,26 +1,26 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 33177-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 35080-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-09-17  
+**Datum:** 2026-09-22  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 33177-2026** |
-| Kommun | VALDEMARSVIK |
-| Inkom till Skogsstyrelsen | 2026-08-11 |
-| Anmäld areal | 4.6 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6443622, E 585856 (SWEREF 99 TM); 58.12561, 16.45767 (WGS84) |
-| Status i öppna data | Brådskande: fristen går ut inom 14 dagar |
+| Avverkningsanmälan | **A 35080-2026** |
+| Kommun | KINDA |
+| Inkom till Skogsstyrelsen | 2026-08-26 |
+| Anmäld areal | 8.8 ha (Avverkning för annat ändamål, Normal skog) |
+| Områdets mittpunkt | N 6427304, E 548575 (SWEREF 99 TM); 57.98472, 15.82145 (WGS84) |
+| Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-09-22 (5 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-07 (15 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-17. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-09-22. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
@@ -28,20 +28,17 @@ _Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
 ### Inom 150 meter utanför området (buffertzon)
 
-| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
-|---|---|---|---|---|---|---|
-| *Vicia pisiformis* | ärtvicker | EN | 8 § / 9 § (bilaga 2) | inom 150 m | 36 | 2026 |
-| *Hypericum montanum* | bergjohannesört | NT | rödlistad (ej fridlyst) | inom 150 m | 4 | 2024 |
+_Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.4477 58.1196,16.4677 58.1196,16.4677 58.1316,16.4477 58.1316,16.4477 58.1196))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.8115 57.9787,15.8315 57.9787,15.8315 57.9907,15.8115 57.9907,15.8115 57.9787))
 
 ## Skogliga naturvärden enligt öppna data
 
-- Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 71 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 98 %.
-- Närmaste Natura 2000-område: Hägerstad (6854 m). Närmaste naturreservat: Skrickerum (3265 m).
-- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); hög skoglig naturvärdessannolikhet (HCVF 71); hög skog >= 20 m på 98 %.
+- Nyckelbiotop (Skogsstyrelsen) överlappar 1 % av området.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 72 av 100.
+- Ädellövskog (NMD 2023): 65 % av området; skog högre än 20 m: 74 %.
+- Närmaste Natura 2000-område: Ryda (3842 m). Närmaste naturreservat: Ryda (3842 m).
+- Skäl som utlöst bevakningen: hög skoglig naturvärdessannolikhet (HCVF 72); ädellövskog 65 %; hög skog >= 20 m på 74 %.
 
 ## Rättslig grund
 
@@ -67,5 +64,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-09-17 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260917), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-09-22 06:54 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20260922), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
