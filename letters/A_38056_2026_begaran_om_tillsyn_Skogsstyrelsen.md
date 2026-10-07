@@ -1,49 +1,53 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 39427-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 38056-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-10-06  
+**Datum:** 2026-10-07  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 39427-2026** |
+| Avverkningsanmälan | **A 38056-2026** |
 | Kommun | NORRKÖPING |
-| Inkom till Skogsstyrelsen | 2026-09-23 |
-| Anmäld areal | 8.6 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6514589, E 562986 (SWEREF 99 TM); 58.76672, 16.08899 (WGS84) |
+| Inkom till Skogsstyrelsen | 2026-09-15 |
+| Anmäld areal | 20.8 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6484200, E 606982 (SWEREF 99 TM); 58.48528, 16.83494 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-04 (29 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-27 (20 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-06. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-07. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Cygnus cygnus* | sångsvan | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 4 | 2020 |
+| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 2 | 2026 |
+| *Leucobryum glaucum* | blåmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 7 | 2026 |
+| *Phaeolus schweinitzii* | grovticka | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 1 | 2026 |
+| *Tomicus minor* | mindre märgborre | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 4 | 2026 |
+| *Hertelidea botryosa* | vedskivlav | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
+| *Phellinidium ferrugineofuscum* | ullticka | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
+| *Porodaedalea pini* | tallticka | NT | rödlistad (ej fridlyst) | inom området | 4 | 2026 |
+| *Sarcodon squamosus* | motaggsvamp | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
-| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
-|---|---|---|---|---|---|---|
-| *Haliaeetus albicilla* | havsörn | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 2 | 2021 |
-| *Fraxinus excelsior* | ask | EN | rödlistad (ej fridlyst) | inom 150 m | 1 | 2006 |
+_Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.0790 58.7607,16.0990 58.7607,16.0990 58.7727,16.0790 58.7727,16.0790 58.7607))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.8249 58.4793,16.8449 58.4793,16.8449 58.4913,16.8249 58.4913,16.8249 58.4793))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 58.5 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 93 %.
-- Närmaste Natura 2000-område: Nybygget-Duvhult (5315 m). Närmaste naturreservat: Hjälmstorpenäs (3571 m).
-- Skäl som utlöst bevakningen: prioriterad fågelart inom området (4 §); hög skog >= 20 m på 93 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 50 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 77 %.
+- Närmaste Natura 2000-område: Jonsberg (4354 m). Närmaste naturreservat: Stora Rimmö (5140 m).
+- Skäl som utlöst bevakningen: prioriterad fågelart inom området (4 §); hög skog >= 20 m på 77 %.
 
 ## Rättslig grund
 
@@ -69,5 +73,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-10-06 18:04 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261006), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-10-07 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261007), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
