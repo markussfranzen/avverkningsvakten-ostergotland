@@ -1,57 +1,50 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 36146-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 40284-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-10-10  
+**Datum:** 2026-10-11  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 36146-2026** |
-| Kommun | LINKÖPING |
-| Inkom till Skogsstyrelsen | 2026-08-30 |
-| Anmäld areal | 2.5 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6471517, E 551728 (SWEREF 99 TM); 58.38143, 15.88457 (WGS84) |
-| Status i öppna data | Brådskande: fristen går ut inom 14 dagar |
+| Avverkningsanmälan | **A 40284-2026** |
+| Kommun | KINDA |
+| Inkom till Skogsstyrelsen | 2026-09-29 |
+| Anmäld areal | 11.7 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6442319, E 532538 (SWEREF 99 TM); 58.12104, 15.55234 (WGS84) |
+| Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-11 (1 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-10 (30 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-10. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-11. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Cygnus cygnus* | sångsvan | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2012 |
-| *Haliaeetus albicilla* | havsörn | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2016 |
-| *Lanius collurio* | törnskata | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2015 |
-| *Lullula arborea* | trädlärka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2012 |
-| *Dryobates minor* | mindre hackspett | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2010 |
-| *Motacilla alba* | sädesärla | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2015 |
-| *Vanellus vanellus* | tofsvipa | VU | 4 § (vilda fåglar) | inom området | 1 | 2016 |
+| *Lycopodium clavatum* | mattlummer | LC | 8 § / 9 § (bilaga 2) | inom området | 2 | 2026 |
+| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2026 |
+| *Poecile montanus* | talltita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 3 | 2026 |
+| *Tomicus minor* | mindre märgborre | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 1 | 2026 |
+| *Porodaedalea pini* | tallticka | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
-| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
-|---|---|---|---|---|---|---|
-| *Lucanus cervus* | ekoxe | LC | 6 § (bilaga 2) | inom 150 m | 4 | 2026 |
-| *Selinum carvifolia* | krusfrö | NT | rödlistad (ej fridlyst) | inom 150 m | 4 | 2022 |
-| *Serratula tinctoria* | ängsskära | NT | rödlistad (ej fridlyst) | inom 150 m | 6 | 2022 |
-| *Seseli libanotis* | säfferot | NT | rödlistad (ej fridlyst) | inom 150 m | 5 | 2022 |
+_Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.8746 58.3754,15.8946 58.3754,15.8946 58.3874,15.8746 58.3874,15.8746 58.3754))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.5423 58.1150,15.5623 58.1150,15.5623 58.1270,15.5423 58.1270,15.5423 58.1150))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 50.3 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 58 %.
-- Närmaste Natura 2000-område: Lunderna (1285 m). Närmaste naturreservat: Ytterby (5032 m).
-- Skäl som utlöst bevakningen: rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); prioriterad fågelart inom området (4 §); hotad art (CR/EN/VU) inom området; hög skog >= 20 m på 58 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 34 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 98 %.
+- Närmaste Natura 2000-område: Klevberget Sonebo (5358 m). Närmaste naturreservat: Sand-Drögen (2510 m).
+- Skäl som utlöst bevakningen: allmän fridlyst art (t.ex. orkidé) inom 150 m, ej utlösande; prioriterad fågelart inom området (4 §); hög skog >= 20 m på 98 %.
 
 ## Rättslig grund
 
@@ -77,5 +70,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-10-10 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261010), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-10-11 06:35 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261011), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
