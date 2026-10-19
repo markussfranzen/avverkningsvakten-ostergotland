@@ -2,7 +2,7 @@
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-10-18  
+**Datum:** 2026-10-19  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
@@ -16,18 +16,18 @@
 | Områdets mittpunkt | N 6533080, E 539295 (SWEREF 99 TM); 58.93559, 15.6827 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-23 (36 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-23 (35 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-18. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-19. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Milvus milvus* | röd glada | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 11 | 2026 |
-| *Aquila chrysaetos* | kungsörn | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 44 | 2026 |
+| *Milvus milvus* | röd glada | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 12 | 2026 |
+| *Aquila chrysaetos* | kungsörn | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 46 | 2026 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
@@ -45,14 +45,15 @@ Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koo
 | *Dryobates minor* | mindre hackspett | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 1 | 2022 |
 | *Glaucidium passerinum* | sparvuggla | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 2 | 2023 |
 | *Jynx torquilla* | göktyta | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 3 | 2023 |
-| *Motacilla alba* | sädesärla | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 4 | 2026 |
+| *Motacilla alba* | sädesärla | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 5 | 2026 |
 | *Pernis apivorus* | bivråk | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 150 m | 2 | 2023 |
 | *Poecile palustris* | entita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 3 | 2026 |
 | *Chloris chloris* | grönfink | VU | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 1 | 2026 |
 | *Sturnus vulgaris* | stare | VU | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 1 | 2023 |
 | *Fraxinus excelsior* | ask | EN | rödlistad (ej fridlyst) | inom 50 m | 6 | 2025 |
-| *Cossus cossus* | större träfjäril | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 1 | 2023 |
+| *Cossus cossus* | större träfjäril | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 2 | 2026 |
 | *Hygrocybe coccinea* | blodvaxing | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 1 | 2022 |
+| *Lactarius lignyotus* | sotriska | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 1 | 2026 |
 | *Astur gentilis* | duvhök | NT | 4 § (vilda fåglar) | inom 150 m | 1 | 2026 |
 | *Barbastella barbastellus* | barbastell | NT | rödlistad (ej fridlyst) | inom 50 m | 2 | 2022 |
 | *Hirundo rustica* | ladusvala | NT | 4 § (vilda fåglar) | inom 50 m | 2 | 2026 |
@@ -97,5 +98,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-10-18 06:55 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261018), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-10-19 10:32 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261019), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
