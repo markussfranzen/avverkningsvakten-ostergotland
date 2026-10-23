@@ -1,62 +1,49 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 37646-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 39427-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-10-22  
+**Datum:** 2026-10-23  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 37646-2026** |
-| Kommun | ÅTVIDABERG |
-| Inkom till Skogsstyrelsen | 2026-09-11 |
-| Anmäld areal | 1.9 ha (Avverkning för att bevara och utveckla /försöksver, Normal skog) |
-| Områdets mittpunkt | N 6453483, E 574647 (SWEREF 99 TM); 58.21619, 16.27058 (WGS84) |
+| Avverkningsanmälan | **A 39427-2026** |
+| Kommun | NORRKÖPING |
+| Inkom till Skogsstyrelsen | 2026-09-23 |
+| Anmäld areal | 8.6 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6514589, E 562986 (SWEREF 99 TM); 58.76672, 16.08899 (WGS84) |
 | Status i öppna data | Brådskande: fristen går ut inom 14 dagar |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-10-23 (1 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-04 (12 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-22. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-10-23. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Buxbaumia viridis* | grön sköldmossa | LC | 4 a § (bilaga 1 N/n, art- och habitatdirektivets bilaga IV) | inom området | 1 | 2026 |
-| *Antitrichia curtipendula* | fällmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 4 | 2026 |
-| *Lactarius lignyotus* | sotriska | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 1 | 2026 |
-| *Rhytidiadelphus loreus* | västlig hakmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 2 | 2026 |
+| *Cygnus cygnus* | sångsvan | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 4 | 2020 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Platanthera bifolia* | nattviol | LC | 8 § / 9 § (bilaga 2) | inom 50 m | 1 | 2015 |
-| *Platanthera chlorantha* | grönvit nattviol | LC | 8 § / 9 § (bilaga 2) | inom 50 m | 1 | 2015 |
-| *Hygrocybe ceracea* | sprödvaxing | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 1 | 2026 |
-| *Hygrocybe conica* | toppvaxing | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 1 | 2026 |
-| *Leucobryum glaucum* | blåmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 3 | 2026 |
-| *Nephroma parile* | bårdlav | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 1 | 2015 |
-| *Lactarius musteus* | tallriska | NT | rödlistad (ej fridlyst) | inom 150 m | 1 | 2026 |
-| *Polygala vulgaris* | jungfrulin | NT | rödlistad (ej fridlyst) | inom 50 m | 1 | 2015 |
-| *Porodaedalea pini* | tallticka | NT | rödlistad (ej fridlyst) | inom 150 m | 4 | 2025 |
-| *Zygaena lonicerae* | bredbrämad bastardsvärmare | VU | rödlistad (ej fridlyst) | inom 50 m | 2 | 2025 |
-| *Zygaena osterodensis* | smalsprötad bastardsvärmare | VU | rödlistad (ej fridlyst) | inom 50 m | 1 | 2025 |
-| *Zygaena viciae* | mindre bastardsvärmare | VU | rödlistad (ej fridlyst) | inom 50 m | 1 | 2025 |
+| *Haliaeetus albicilla* | havsörn | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 2 | 2021 |
+| *Fraxinus excelsior* | ask | EN | rödlistad (ej fridlyst) | inom 150 m | 1 | 2006 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.2606 58.2102,16.2806 58.2102,16.2806 58.2222,16.2606 58.2222,16.2606 58.2102))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.0790 58.7607,16.0990 58.7607,16.0990 58.7727,16.0790 58.7727,16.0790 58.7607))
 
 ## Skogliga naturvärden enligt öppna data
 
-- Nyckelbiotop (Skogsstyrelsen) överlappar 1 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 55 av 100.
-- Ädellövskog (NMD 2023): 1 % av området; skog högre än 20 m: 96 %.
-- Närmaste Natura 2000-område: Stora och Lilla Löpgöl (3056 m). Närmaste naturreservat: Gorgberget (1797 m).
-- Skäl som utlöst bevakningen: art i bilaga IV inom området (4 a §); rödlistad/bilaga IV-fridlyst art inom området (6/8 §); hög skog >= 20 m på 96 %.
+- Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 58.5 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 93 %.
+- Närmaste Natura 2000-område: Nybygget-Duvhult (5315 m). Närmaste naturreservat: Hjälmstorpenäs (3571 m).
+- Skäl som utlöst bevakningen: prioriterad fågelart inom området (4 §); hög skog >= 20 m på 93 %.
 
 ## Rättslig grund
 
@@ -82,5 +69,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-10-22 06:35 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261022), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-10-23 06:35 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261023), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
