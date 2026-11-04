@@ -1,26 +1,26 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 39613-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 42557-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-11-03  
+**Datum:** 2026-11-04  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 39613-2026** |
-| Kommun | ÅTVIDABERG |
-| Inkom till Skogsstyrelsen | 2026-09-23 |
-| Anmäld areal | 13 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6459845, E 549981 (SWEREF 99 TM); 58.27681, 15.85218 (WGS84) |
-| Status i öppna data | Brådskande: fristen går ut inom 14 dagar |
+| Avverkningsanmälan | **A 42557-2026** |
+| Kommun | VALDEMARSVIK |
+| Inkom till Skogsstyrelsen | 2026-10-13 |
+| Anmäld areal | 1.5 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6467666, E 578309 (SWEREF 99 TM); 58.3429, 16.33768 (WGS84) |
+| Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-04 (1 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-24 (20 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-11-03. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-11-04. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
@@ -30,22 +30,17 @@ _Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Buxbaumia viridis* | grön sköldmossa | LC | 4 a § (bilaga 1 N/n, art- och habitatdirektivets bilaga IV) | inom 150 m | 2 | 2013 |
-| *Corallorhiza trifida* | korallrot | LC | 8 § / 9 § (bilaga 2) | inom 150 m | 3 | 2013 |
-| *Daphne mezereum* | tibast | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 4 | 2026 |
-| *Herzogiella seligeri* | stubbspretmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 2 | 2013 |
-| *Odontoschisma denudatum* | kornknutmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 1 | 2010 |
-| *Chrysosplenium alternifolium* | gullpudra | NT | rödlistad (ej fridlyst) | inom 150 m | 1 | 2026 |
+| *Leucorrhinia caudalis* | bred kärrtrollslända | LC | 4 a § (bilaga 1 N/n, art- och habitatdirektivets bilaga IV) | inom 150 m | 1 | 2011 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.8422 58.2708,15.8622 58.2708,15.8622 58.2828,15.8422 58.2828,15.8422 58.2708))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.3277 58.3369,16.3477 58.3369,16.3477 58.3489,16.3277 58.3489,16.3277 58.3369))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 25.1 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 96 %.
-- Närmaste Natura 2000-område: Stockmossen (1668 m). Närmaste naturreservat: Stockmossen (1668 m).
-- Skäl som utlöst bevakningen: art i bilaga IV inom 150 m (4 a §); rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); hög skog >= 20 m på 96 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 39.9 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 84 %.
+- Närmaste Natura 2000-område: Harsbo-Sverkersholm (2322 m). Närmaste naturreservat: Harsbo-Sverkersholm (2322 m).
+- Skäl som utlöst bevakningen: art i bilaga IV inom 150 m (4 a §); rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); hög skog >= 20 m på 84 %.
 
 ## Rättslig grund
 
@@ -71,5 +66,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-11-03 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261103), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-11-04 06:44 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261104), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
