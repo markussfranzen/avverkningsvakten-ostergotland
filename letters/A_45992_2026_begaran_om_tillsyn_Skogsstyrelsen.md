@@ -1,26 +1,26 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 42553-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 45992-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-11-04  
+**Datum:** 2026-11-05  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 42553-2026** |
-| Kommun | VALDEMARSVIK |
-| Inkom till Skogsstyrelsen | 2026-10-13 |
-| Anmäld areal | 1.9 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6467748, E 578346 (SWEREF 99 TM); 58.34364, 16.33834 (WGS84) |
+| Avverkningsanmälan | **A 45992-2026** |
+| Kommun | KINDA |
+| Inkom till Skogsstyrelsen | 2026-11-02 |
+| Anmäld areal | 2.5 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6439742, E 537323 (SWEREF 99 TM); 58.09751, 15.63315 (WGS84) |
 | Status i öppna data | Fristen löper |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-24 (20 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-12-14 (39 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-11-04. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-11-05. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
@@ -30,17 +30,20 @@ _Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Leucorrhinia caudalis* | bred kärrtrollslända | LC | 4 a § (bilaga 1 N/n, art- och habitatdirektivets bilaga IV) | inom 150 m | 1 | 2011 |
+| *Buxbaumia viridis* | grön sköldmossa | LC | 4 a § (bilaga 1 N/n, art- och habitatdirektivets bilaga IV) | inom 150 m | 4 | 2026 |
+| *Lyrurus tetrix* | orre | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom 50 m | 2 | 2025 |
+| *Antitrichia curtipendula* | fällmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 10 | 2026 |
+| *Crossocalyx hellerianus* | vedtrappmossa | NT | rödlistad (ej fridlyst) | inom 150 m | 9 | 2026 |
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.3283 58.3376,16.3483 58.3376,16.3483 58.3496,16.3283 58.3496,16.3283 58.3376))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.6232 58.0915,15.6432 58.0915,15.6432 58.1035,15.6232 58.1035,15.6232 58.0915))
 
 ## Skogliga naturvärden enligt öppna data
 
-- Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 36.5 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 98 %.
-- Närmaste Natura 2000-område: Harsbo-Sverkersholm (2302 m). Närmaste naturreservat: Harsbo-Sverkersholm (2302 m).
-- Skäl som utlöst bevakningen: art i bilaga IV inom 150 m (4 a §); rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); hög skog >= 20 m på 98 %.
+- Nyckelbiotop (Skogsstyrelsen) överlappar 8 % av området.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 75.8 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 99 %.
+- Närmaste Natura 2000-område: Krogsfall (4946 m). Närmaste naturreservat: Väsby branter (222 m).
+- Skäl som utlöst bevakningen: art i bilaga IV inom 150 m (4 a §); rödlistad/bilaga IV-fridlyst art inom 150 m (6/8 §, buffertzon); prioriterad fågelart inom 150 m (4 §); nyckelbiotop överlappar; hög skoglig naturvärdessannolikhet (HCVF 76); hög skog >= 20 m på 99 %.
 
 ## Rättslig grund
 
@@ -66,5 +69,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-11-04 06:44 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261104), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-11-05 06:37 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261105), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
