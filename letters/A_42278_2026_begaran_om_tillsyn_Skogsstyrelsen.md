@@ -1,56 +1,61 @@
-# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 40918-2026
+# Begäran om tillsyn och beslut om försiktighetsmått – avverkningsanmälan A 42278-2026
 
 **Till:** Skogsstyrelsen, skogsstyrelsen@skogsstyrelsen.se (distrikt Östergötland)  
 **Kopia:** Länsstyrelsen Östergötland, ostergotland@lansstyrelsen.se  
-**Datum:** 2026-11-12  
+**Datum:** 2026-11-13  
 **Från:** [Förening/namn, organisationsnummer, adress, e-post, telefon]
 
 ## Ärendet
 
 | | |
 |---|---|
-| Avverkningsanmälan | **A 40918-2026** |
-| Kommun | ÅTVIDABERG |
-| Inkom till Skogsstyrelsen | 2026-10-02 |
-| Anmäld areal | 3.4 ha (Föryngringsavverkning, Normal skog) |
-| Områdets mittpunkt | N 6452728, E 572548 (SWEREF 99 TM); 58.20976, 16.23462 (WGS84) |
+| Avverkningsanmälan | **A 42278-2026** |
+| Kommun | KINDA |
+| Inkom till Skogsstyrelsen | 2026-10-12 |
+| Anmäld areal | 22.1 ha (Föryngringsavverkning, Normal skog) |
+| Områdets mittpunkt | N 6434600, E 547479 (SWEREF 99 TM); 58.05036, 15.80438 (WGS84) |
 | Status i öppna data | Brådskande: fristen går ut inom 14 dagar |
 
-Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-13 (1 dagar kvar).
+Sexveckorsfristen enligt 12 kap. 6 § miljöbalken löper till och med 2026-11-23 (10 dagar kvar).
 
 ## Kända förekomster av fridlysta och rödlistade arter
 
-Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-11-12. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
+Uppgifterna nedan kommer från GBIF/Artportalen (fynd från 2006 och senare, koordinatosäkerhet högst 250 m) och har sammanställts 2026-11-13. Bevakningen är automatisk; varje fynd bör kontrolleras i Artportalen innan brevet skickas.
 
 ### Inom det avverkningsanmälda området
 
 | Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
 |---|---|---|---|---|---|---|
-| *Hepatica nobilis* | blåsippa | LC | 8 § / 9 § (bilaga 2) | inom området | 1 | 2026 |
+| *Dryocopus martius* | spillkråka | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 2 | 2026 |
+| *Haliaeetus albicilla* | havsörn | LC | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 1 | 2026 |
 | *Poecile montanus* | talltita | NT | 4 § (vilda fåglar), prioriterad art enligt Skogsstyrelsen 2026 | inom området | 2 | 2026 |
-| *Leucobryum glaucum* | blåmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 1 | 2026 |
-| *Pyrola chlorantha* | grönpyrola | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 1 | 2026 |
-| *Hydnellum ferrugineum* | dropptaggsvamp | NT | rödlistad, signalart (ej fridlyst) | inom området | 3 | 2026 |
-| *Postia guttulata* | gropticka | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
-| *Sarcodon imbricatus* | fjällig taggsvamp s.str. | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
+| *Dicranum flagellare* | flagellkvastmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 6 | 2026 |
+| *Leucobryum glaucum* | blåmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 3 | 2026 |
+| *Odontoschisma denudatum* | kornknutmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 5 | 2026 |
+| *Sparassis crispa* | blomkålssvamp | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 1 | 2026 |
+| *Tomicus minor* | mindre märgborre | LC | signalart (Skogsstyrelsen), ej fridlyst | inom området | 5 | 2026 |
+| *Anomoporia kamtschatica* | vaddporing | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
+| *Cladonia parasitica* | dvärgbägarlav | NT | rödlistad (ej fridlyst) | inom området | 3 | 2026 |
+| *Crossocalyx hellerianus* | vedtrappmossa | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
+| *Hertelidea botryosa* | vedskivlav | NT | rödlistad (ej fridlyst) | inom området | 10 | 2026 |
+| *Leptoporus erubescens* | tallkötticka | NT | rödlistad (ej fridlyst) | inom området | 2 | 2026 |
+| *Nothorhina muricata* | reliktbock | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
+| *Porodaedalea pini* | tallticka | NT | rödlistad (ej fridlyst) | inom området | 3 | 2026 |
+| *Sarcodon squamosus* | motaggsvamp | NT | rödlistad (ej fridlyst) | inom området | 1 | 2026 |
 
 ### Inom 150 meter utanför området (buffertzon)
 
-| Art | Svenskt namn | Rödlista 2025 | Skydd | Avstånd | Fynd | Senaste år |
-|---|---|---|---|---|---|---|
-| *Dicranum flagellare* | flagellkvastmossa | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 150 m | 5 | 2026 |
-| *Tomicus minor* | mindre märgborre | LC | signalart (Skogsstyrelsen), ej fridlyst | inom 50 m | 2 | 2026 |
-| *Hydnellum peckii* | skarp dropptaggsvamp | NT | rödlistad, signalart (ej fridlyst) | inom 50 m | 1 | 2026 |
+_Inga fynd av nyckelarter i denna zon i tillgängliga data._
 
-Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((16.2246 58.2038,16.2446 58.2038,16.2446 58.2158,16.2246 58.2158,16.2246 58.2038))
+Karta över fynd i närområdet: https://www.gbif.org/occurrence/map?geometry=POLYGON((15.7944 58.0444,15.8144 58.0444,15.8144 58.0564,15.7944 58.0564,15.7944 58.0444))
 
 ## Skogliga naturvärden enligt öppna data
 
 - Nyckelbiotop (Skogsstyrelsen) överlappar 0 % av området.
-- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 84.9 av 100.
-- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 99 %.
-- Närmaste Natura 2000-område: Stora och Lilla Löpgöl (1348 m). Närmaste naturreservat: Svalberget (213 m).
-- Skäl som utlöst bevakningen: allmän fridlyst art (t.ex. orkidé) inom 150 m, ej utlösande; prioriterad fågelart inom området (4 §); hög skoglig naturvärdessannolikhet (HCVF 85); hög skog >= 20 m på 99 %.
+- Modellerad sannolikhet för skog med höga naturvärden (NVK Skog/HCVF, Naturvårdsverket): medel 69.5 av 100.
+- Ädellövskog (NMD 2023): 0 % av området; skog högre än 20 m: 88 %.
+- Närmaste Natura 2000-område: Knastraberget (2560 m). Närmaste naturreservat: Tegelsätter (3203 m).
+- Skäl som utlöst bevakningen: prioriterad fågelart inom området (4 §); hög skog >= 20 m på 88 %.
 
 ## Rättslig grund
 
@@ -76,5 +81,5 @@ Vi står till förfogande med underlag och fältkunskap.
 [Kontaktuppgifter]
 
 ---
-*Utkast genererat automatiskt 2026-11-12 06:45 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261112), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
+*Utkast genererat automatiskt 2026-11-13 06:36 av bevakningen `260906_E_avverkning_watchdog` från Skogsstyrelsens öppna data (Skogsdataportalen, hämtat 20261113), GBIF (DOI 10.15468/dl.5gbu2g), Rödlistan 2025 (SLU Artdatabanken), NMD 2023 och NVK Skog (Naturvårdsverket). Kontrollera alla fynd i Artportalen och fastighetsuppgifter i Skogsstyrelsens karttjänst innan brevet skickas.*
 
